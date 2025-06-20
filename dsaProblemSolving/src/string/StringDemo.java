@@ -8,7 +8,9 @@ public class StringDemo {
 		
 		obj.demo();
 		
-		//obj.concatenation();
+		
+		
+		obj.concatenation();
 		
 		//obj.comparision();
 		
