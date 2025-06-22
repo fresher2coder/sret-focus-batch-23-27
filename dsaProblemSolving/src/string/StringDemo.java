@@ -6,9 +6,7 @@ public class StringDemo {
 		
 		StringDemo obj = new StringDemo();
 		
-		obj.demo();
-		
-		
+		obj.demo();				
 		
 		obj.concatenation();
 		
