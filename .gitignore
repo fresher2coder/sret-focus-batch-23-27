@@ -1,5 +1,6 @@
 #material
 *.pages
+*.numbers
 
 # Node.js (Backend)
 node_modules/
